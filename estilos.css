@@ -1,0 +1,10 @@
+li {
+  float: left;
+  list-style-type: none;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
